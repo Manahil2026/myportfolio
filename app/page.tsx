@@ -10,6 +10,6 @@ export default function Home() {
       >
         <h1>Hello, Portfolio!</h1>
       </div>
-    </main>
+    </main> 
   );
 }
